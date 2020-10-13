@@ -23,6 +23,8 @@ For å legge til Avro skjema til en applikasjon må du legge jitpack som reposit
 <dependency>
     <groupId>com.github.navikt</groupId>
     <artifactId>doknotifikasjon-schemas</artifactId>
+    <version>${doknotifikasjon-schemas-version}</version>
+    <scope>compile</scope>
 </dependency>
 ```
 
