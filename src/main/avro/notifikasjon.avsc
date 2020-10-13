@@ -30,7 +30,11 @@
       "type": "string"
     },
     {
-      "name": "tekst",
+      "name": "epostTekst",
+      "type": "string"
+    },
+    {
+      "name": "smsTekst",
       "type": "string"
     },
     {
