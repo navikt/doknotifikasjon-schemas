@@ -1,5 +1,5 @@
 
-# Brukernotifikasjon-schemas
+# Doknotifikasjon-schemas
 
 Avro-skjemaer for doknotifikasjon, for mer info for felter se på [confluence](https://confluence.adeo.no/display/BOA/doknotifikasjon+-+Funksjonell+Beskrivelse)
 
