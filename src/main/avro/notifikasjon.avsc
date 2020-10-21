@@ -45,14 +45,6 @@
     },
     {
       "name": "prefererteKanaler",
-      "type": [
-        "null",
-        "string"
-      ],
-      "default": null
-    },
-    {
-      "name": "prefererteKanaler",
       "type": {
         "type": "array",
         "items": {
