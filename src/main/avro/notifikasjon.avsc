@@ -46,7 +46,7 @@
     {
       "name": "prefererteKanaler",
       "type": {
-        "type": "array",
+        "type": ["null", "array"],
         "items": {
           "type": "enum",
           "symbols": ["SMS", "EPOST"],
