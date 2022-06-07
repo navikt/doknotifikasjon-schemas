@@ -1,6 +1,10 @@
 
 # Doknotifikasjon-schemas
 
+# Dette Github-prosjektet er deprekert
+Doknotifikasjon-schemas er erstattet av [teamdokumenthandtering-avro-schemas](https://github.com/navikt/teamdokumenthandtering-avro-schemas), som har alle Avro-skjema for Team Dokumentløsninger.
+
+# Funksjonalitet
 Avro-skjemaer for doknotifikasjon, for mer info for felter se på [confluence](https://confluence.adeo.no/display/BOA/doknotifikasjon+-+Funksjonell+Beskrivelse)
 
 Avro skjema blir brukt på denne [applikasjonen](https://github.com/navikt/doknotifikasjon).
