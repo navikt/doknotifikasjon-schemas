@@ -1,6 +1,10 @@
 
 # Doknotifikasjon-schemas
 
+Unarchived 2024-12-20: 
+Fremdeles i bruk, klienter må bes om å oppdatere til `teamdokumenthandtering-avro-schemas`
+https://github.com/search?q=org%3Anavikt+%22doknotifikasjon-schemas%22+-is%3Aarchived&type=code
+
 # Dette Github-prosjektet er deprekert
 Doknotifikasjon-schemas er erstattet av [teamdokumenthandtering-avro-schemas](https://github.com/navikt/teamdokumenthandtering-avro-schemas), som har alle Avro-skjema for Team Dokumentløsninger.
 
